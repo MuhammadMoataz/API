@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MuhammadMoataz/api?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/MuhammadMoataz/api?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/MuhammadMoataz/api?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MuhammadMoataz/api?color=56BEB8" /> -->
 
